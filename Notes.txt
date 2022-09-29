@@ -1,1 +1,12 @@
+Top 10 Python Libraries for machine learning which are:
 
+TensorFlow
+Scikit-Learn
+Numpy
+Keras
+PyTorch
+LightGBM
+Eli5
+SciPy
+Theano
+Pandas
