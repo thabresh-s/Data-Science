@@ -10,3 +10,8 @@ Eli5
 SciPy
 Theano
 Pandas
+
+TensorFlow
+
+Both machine learning and deep learning models are easily developed and evaluated with TensorFlow's flexible architecture and framework. TensorFlow can be used to visualize machine learning models on both desktop and mobile.
+
