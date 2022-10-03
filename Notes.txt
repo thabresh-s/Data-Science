@@ -1,4 +1,4 @@
-Top 10 Python Libraries for machine learning which are:
+🔝Top 10 Python Libraries for machine learning which are:
 
 TensorFlow
 Scikit-Learn
@@ -14,4 +14,6 @@ Pandas
 TensorFlow
 
 Both machine learning and deep learning models are easily developed and evaluated with TensorFlow's flexible architecture and framework. TensorFlow can be used to visualize machine learning models on both desktop and mobile.
+
+...
 
