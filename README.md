@@ -1,2 +1,1 @@
-# Learn-Python-with-Me
-Python Programming for DataScience
+# Full Stack Data Science
