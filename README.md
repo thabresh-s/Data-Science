@@ -1,4 +1,7 @@
-# Full Stack Data Science
+# DataScience
+
+Build expertise in data manipulation, visualization, predictive analytics, machine learning, and data science.
+
 
 #Python
 #Machine Learning
