@@ -1,0 +1,23 @@
+## data
+numpy==1.16.4
+pandas==0.25.1
+xlrd==1.2.0
+## plot
+matplotlib==3.1.2
+seaborn==0.9.0
+## statistics
+scipy==1.3.2
+statsmodels==0.10.1
+## machine learning
+scikit-learn==0.22
+imbalanced-learn==0.6.2
+ppscore==0.0.2
+## deep learning
+tensorflow==2.6.0
+minisom==2.2.6
+## explainer
+lime==0.1.1.37
+shap==0.35.0
+## geospatial
+geopy==2.0.0
+folium==0.11.0
