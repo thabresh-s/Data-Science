@@ -1,3 +1,1 @@
-<img src='https://user-images.githubusercontent.com/31488753/203903972-0e093e69-6778-4b3b-ae1d-497d6fd5ad35.png' width=500 align=center>
-
-### SQL
+![image](https://user-images.githubusercontent.com/31488753/203904446-814832a5-5290-4a8e-aa53-fa9b3ff07a9e.png)
