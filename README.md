@@ -1,9 +1,10 @@
-# DataScience
+# Datascience Mastery
 
 Build expertise in data manipulation, visualization, predictive analytics, machine learning, and data science.
 
+<img src="https://www.iimtindia.net/Blog/wp-content/uploads/2021/08/Data-Science-Future-scope.jpg" height=350 width=750>
 
-## Learn
+### Topics Covered
 
 - Python
 - Machine Learning
