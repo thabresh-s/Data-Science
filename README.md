@@ -14,6 +14,10 @@ Build expertise in data manipulation, visualization, predictive analytics, machi
 
 ---
 
+**Featured**
+[Machine Leaning - AWS](https://docs.aws.amazon.com/machine-learning/latest/dg/what-is-amazon-machine-learning.html)
+[Google Machine Learning](https://developers.google.com/machine-learning/crash-course)
+
 ## Python Programming
 
 #### Reasons you may want to learn Python for Machine Learning.
