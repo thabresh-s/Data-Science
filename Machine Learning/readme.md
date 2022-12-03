@@ -1,4 +1,63 @@
-The following is a list of free and/or open source books on machine learning, statistics, data mining, etc.
+### **1. Learn Any Scripting Language (Python or R)**
+
+I'll recommend learning both Python & R, but if you are only learning one of them, then I would suggest going with Python.
+
+- **Learn Basic Python Syntax:** Basic Arithmetic Operations, Control & Conditional Structures, Looping, User Input, Strings, Integers, Typecasting
+- **Learn In-built Data Structures:** List, Set, Tuple, Dictionary, Function, Lambda Function, Iterators & Generators, Exception Handling & Imports Libraries
+- **OOPS:** Classes, Object, Method, Inheritance, Polymorphism, Data Abstraction, Encapsulation
+- **Libraries with Python:** Numpy, Pandas, Scipy, Scikit-Learn, Matplotlib, Seaborn**Link: [Learn Python in 20 Days for Free!](https://www.kaggle.com/questions-and-answers/262250)**
+
+![https://i.postimg.cc/Jnd09bcZ/programming-language-required.jpg](https://i.postimg.cc/Jnd09bcZ/programming-language-required.jpg)
+
+### **2. Learn Basic Statistics**
+
+- **Probability Distributions:** Continuous and Discrete
+- **Basic Probability:** Independent and Dependent Events, Marginal Probability, Conditional Probability, Joint Probability
+- **Measures of Central Tendency:** Mean, Median, Mode
+- **Variance, Standard Deviation & Standard Error**
+
+### **3. Learn Exploratory Data Analysis (EDA)**
+
+- Identification of variables and data types
+- Analyzing the basic metrics
+- Non-Graphical & Graphical Univariate Analysis
+- Bivariate Analysis
+- Variable transformations, Missing value/Outlier Treatment
+- Correlation Analysis/Dimensionality Reduction
+
+### **4. Learn Supervised & Unsupervised Model**
+
+### **Supervised Models:**
+
+- Linear/Polynomial/Logistic regression
+- Classification trees
+- Ensemble models like Bagging and Random Forest
+- Support Vector Machines
+
+### **Unsupervised Models:**
+
+- Clustering
+- Association Rule Learning
+
+### **5. Learn Deep Learning Models**
+
+- **Supervised:** ANN/CNN/RNN
+- **Unsupervised:** SOMs/Boltzmann Machines/AutoEncoders
+
+### **6. Understand Big Data Technologies**
+
+- Big Data Overview and Eco-System
+- Hadoop/NoSQL/Data Lakes
+- TensorFlow/Docker/Kubernetes
+
+### **MLOps**
+
+**MLOps** is a set of practices that combines Machine Learning, DevOps and Data Engineering. It is an engineering discipline that aims to unify **ML systems development** (dev) and **ML systems deployment** (ops) to standardize and streamline the continuous delivery of high-performing models in production.To streamline this entire system, we have this new Machine learning engineering culture. The system involved everyone from the higher management with minimal technical skills to Data Scientists to DevOps and ML Engineers.
+
+![https://i.postimg.cc/mDGG0gtL/ML-Ops-Venn-Diagram-svg.png](https://i.postimg.cc/mDGG0gtL/ML-Ops-Venn-Diagram-svg.png)
+
+![https://i.postimg.cc/KvXQy3Nh/1-vo-Ewbtw65vgb7-Yg-Po-Mav-XA.png](https://i.postimg.cc/KvXQy3Nh/1-vo-Ewbtw65vgb7-Yg-Po-Mav-XA.png)
+
 
 ## Machine Learning / Data Mining
 
