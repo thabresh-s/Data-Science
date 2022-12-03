@@ -39,15 +39,4 @@ Build expertise in data manipulation, visualization, predictive analytics, machi
 ## Data Visualization
 
 **[Art of Data Visualization - Notebooks Collection](https://www.kaggle.com/discussions/general/364289)**
----
 
-## Machine Learning
-
----
-
-## Deep Learning
-
----
-## NLP
-
----
