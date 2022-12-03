@@ -1,4 +1,28 @@
 
 # Python Programming
 
-![image](https://user-images.githubusercontent.com/31488753/203904688-35003ecd-a436-462a-b03f-99534e1e54f3.png)
+### **BEST BOOKS:**
+
+### **Beginner-Level Books:**
+
+- [Learning Python](https://oiipdf.com/learning-python-5th-edition)
+- [Python in a Nutshell](https://oiipdf.com/python-in-a-nutshell-3rd-edition)
+
+### **Domain-Specific Books:**
+
+- [Python for Data Analysis](https://oiipdf.com/python-for-data-analysis-2nd-edition)
+- [Python Machine Learning](https://oiipdf.com/python-machine-learning)
+
+### **BEST YT VIDEOS:**
+
+- [Krish Naik Python Playlist](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)
+- [freeCodeCamp.org](https://www.youtube.com/watch?v=rfscVS0vtbw)
+- [Telusko Python Playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+- [MIT 6.0001](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+
+### **BEST SITES TO PRACTICE:**
+
+- [HackerRank](https://www.hackerrank.com/)
+- [GeeksforGeeks](https://practice.geeksforgeeks.org/batch/fork-python)
+- [Leetcode](https://leetcode.com/)
+- [HackerEarth](https://www.hackerearth.com/practice/)
