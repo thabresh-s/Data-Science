@@ -34,3 +34,20 @@ Build expertise in data manipulation, visualization, predictive analytics, machi
 ## Microsoft Excel
 
 **Please check out this topic about Excel** : [full tutorial from beginning to advanced](https://edu.gcfglobal.org/en/excel/)
+---
+
+## Data Visualization
+
+**[Art of Data Visualization - Notebooks Collection](https://www.kaggle.com/discussions/general/364289)**
+---
+
+## Machine Learning
+
+---
+
+## Deep Learning
+
+---
+## NLP
+
+---
