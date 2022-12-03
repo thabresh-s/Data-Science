@@ -58,6 +58,7 @@ I'll recommend learning both Python & R, but if you are only learning one of the
 
 ![https://i.postimg.cc/KvXQy3Nh/1-vo-Ewbtw65vgb7-Yg-Po-Mav-XA.png](https://i.postimg.cc/KvXQy3Nh/1-vo-Ewbtw65vgb7-Yg-Po-Mav-XA.png)
 
+To streamline this entire system, we have this new Machine learning engineering culture. The system involved everyone from the higher management with minimal technical skills to Data Scientists to DevOps and ML Engineers.
 
 ## Machine Learning / Data Mining
 
