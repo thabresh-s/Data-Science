@@ -1,6 +1,6 @@
 ## Python important Libraries
 
---pandas 
+- pandas 
 - Numpy
 - Matplotlib
 - Seaborn
