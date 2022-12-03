@@ -29,3 +29,25 @@ Build expertise in data manipulation, visualization, predictive analytics, machi
 - **[DataQuest](https://dataquest.io/)**: Similar interface to Codecademy, but focused on teaching Python in the context of data science
 - **[Google's Python Class](https://developers.google.com/edu/python/)**: Slightly more advanced, includes hours of useful lecture videos and downloadable exercises (with solutions)
 - **[Python for Everybody](https://www.coursera.org/specializations/python)**: Designed for people without any programming experience
+
+---
+## Microsoft Excel
+
+**Please check out this topic about Excel** : [full tutorial from beginning to advanced](https://edu.gcfglobal.org/en/excel/)
+---
+
+## Data Visualization
+
+**[Art of Data Visualization - Notebooks Collection](https://www.kaggle.com/discussions/general/364289)**
+---
+
+## Machine Learning
+
+---
+
+## Deep Learning
+
+---
+## NLP
+
+---
