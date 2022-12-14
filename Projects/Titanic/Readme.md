@@ -1,6 +1,4 @@
 ## Titanic Machine Learning From Disaster
-### Soledad Galli
-#### 11 February 2016
 
 
 This folder contains exploratory data analysis and machine learning algorithms that predict survival of passengers on the titanic.
