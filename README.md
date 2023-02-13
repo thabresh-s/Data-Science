@@ -48,3 +48,9 @@ Build expertise in data manipulation, visualization, predictive analytics, machi
 
 - **[Art of Data Visualization - Notebooks Collection](https://www.kaggle.com/discussions/general/364289)**
 - PowerBI (Learn PowerBI)(https://www.workout-wednesday.com/power-bi-challenges/)
+
+## iNeuron Full Stack Data Science certification
+
+- **[Python](https://github.com/thabresh-s/Data-Science/tree/main/Python%20Programming/iNeuron)**
+- **[Advanced Python](https://github.com/thabresh-s/Data-Science/tree/main/Python%20Programming/iNeuron)**
+- **[Programming](https://github.com/thabresh-s/Data-Science/tree/main/Python%20Programming/iNeuron)**
