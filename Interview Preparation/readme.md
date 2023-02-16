@@ -1,6 +1,28 @@
 
 # Data Science - Interview Preparation
 
+## How to get an interview ?
+
+* First and foremost, **develop the necessary skills and be sound with the fundamentals**, these are some of the horizons you should be extremely comfortable with - 
+  - Business Understanding(this is extremely critical across all seniority levels, but specifically for people with more than 3 years of experience)
+  - SQL and Databases(very crucial)
+  - Programming Skills(preferably in Python, if you know Scala, extra brownie points for some specific roles)
+  - Mathematics(Probability, Statistics, Linear Algebra and Calculus) - https://medium.com/@rbhatia46/essential-probability-statistics-concepts-before-data-science-bb787b7a5aef 
+  - Machine Learning(this includes Deep Learning) and Model building
+  - Data Structures and Algorithms(must and mandatory for top product based companies like FAANG)
+  - Domain Understanding(Optional for most openings, though very critical for some roles based on company's requirement)
+  - Literature Review(must for Research based roles) : Being able to read and understand a new research paper is one of the most essential and demanding skills needed in the industry today, as the culture of Research and Development, and innovation grows across most good organizations.
+  - Communication Skills - Being able to explain the analysis and results to business stakeholders and executives is becoming a really important skill for Data Scientists these days
+  - Some Engineering knowledge(Not mandatory, but good to have) - Being able to develop a RESTful API, writing clean and elegant code, Object Oriented programming are some of the things you can focus on for some extra brownie points.
+  - Big data knowledge(not mandatory for most openings, but good to have) - Spark, Hive, Hadoop, Sqoop.
+
+* Some helpful links :
+  * [Advice on building Data Portfolio Projects](https://medium.com/@jasonkgoodman/advice-on-building-data-portfolio-projects-c5f96d8a0627) 📘
+  * [How to write a killer Software Engineering Resume](https://www.freecodecamp.org/news/writing-a-killer-software-engineering-resume-b11c91ef699d/) 📘
+  * [Get your Data Science Resume past the ATS](https://towardsdatascience.com/up-level-your-data-science-resume-getting-past-ats-64322f0cbb73) 📘
+  * [How to write a developer résumé that hiring managers will actually read](https://www.freecodecamp.org/news/how-to-write-a-resume-that-works/) 📘
+
+***
 ## Probability and Statistics
 * [Understand the basics of Descriptive Statistics(Really Important for an interview)](https://towardsdatascience.com/understanding-descriptive-statistics-c9c2b0641291) 📘
 * [40 Question on **probability** for a Data Science Interview](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/) 📘
