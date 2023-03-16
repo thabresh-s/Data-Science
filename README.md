@@ -1,5 +1,4 @@
 # Datascience Masters
-![](https://github.com/thabresh-s/Data-Science/blob/main/ds.gif)
 Build expertise in data manipulation, visualization, predictive analytics, machine learning, and data science.
 
 ### Topics Covered
