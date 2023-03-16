@@ -1,4 +1,4 @@
-# Datascience Masters
+# Datascience Simplified - Thabresh Blog
 Build expertise in data manipulation, visualization, predictive analytics, machine learning, and data science.
 
 ### Topics Covered
