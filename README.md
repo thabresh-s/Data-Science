@@ -1,4 +1,6 @@
 # Datascience Simplified - Thabresh Blog
+[![Peerlist](https://github-readme-badge.peerlist.io/api/thabresh)](https://peerlist.io/thabresh)
+
 Build expertise in data manipulation, visualization, predictive analytics, machine learning, and data science.
 
 ### Topics Covered
