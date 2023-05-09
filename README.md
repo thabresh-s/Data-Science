@@ -35,7 +35,8 @@ Build expertise in data manipulation, visualization, predictive analytics, machi
 - http://learnpython.org
 - http://www.pythonchallenge.com/
 
-Useful Repo: https://github.com/achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project
+*Useful Repo:*
+- [Python for Data Science](https://github.com/achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project
 ---
 ## Microsoft Excel
 
